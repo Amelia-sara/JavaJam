@@ -123,7 +123,7 @@ img{
 }
 
 #heroguitar{
-    background-image: url(image/heroguitar.jpg);
+    background-image: url(Image/heroguitar.jpg);
     background-size: 100% 100%;/*width and height*/
     height: 250px;
 }
